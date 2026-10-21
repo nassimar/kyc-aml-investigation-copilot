@@ -1,0 +1,60 @@
+[
+    {
+        "customer_id": "KYC-001",
+        "company_name": "Atlas Trading SAS",
+        "country": "France",
+        "registration_number": "SYNTH-001",
+        "beneficial_owner": "Alice Martin",
+        "documents": [
+            "registration",
+            "identity",
+            "address"
+        ]
+    },
+    {
+        "customer_id": "KYC-002",
+        "company_name": "Nova Consulting SARL",
+        "country": "France",
+        "registration_number": "SYNTH-002",
+        "beneficial_owner": "Karim Benali",
+        "documents": [
+            "registration",
+            "identity"
+        ]
+    },
+    {
+        "customer_id": "KYC-003",
+        "company_name": "Orion Logistics SAS",
+        "country": "Belgium",
+        "registration_number": "SYNTH-003",
+        "beneficial_owner": null,
+        "documents": [
+            "registration",
+            "identity",
+            "address"
+        ]
+    },
+    {
+        "customer_id": "KYC-004",
+        "company_name": "Blue Horizon Ltd",
+        "country": "Ireland",
+        "registration_number": "SYNTH-004",
+        "beneficial_owner": "Emma Wilson",
+        "documents": [
+            "registration",
+            "identity",
+            "address"
+        ],
+        "declared_country": "France"
+    },
+    {
+        "customer_id": "KYC-005",
+        "company_name": "Global Ventures SAS",
+        "country": "France",
+        "registration_number": null,
+        "beneficial_owner": null,
+        "documents": [
+            "identity"
+        ]
+    }
+]
